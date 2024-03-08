@@ -44,7 +44,7 @@ client.on("ready", async () => {
     .setApplicationId('1119851163530051685')
     .setType('PLAYING')
     .setURL('https://discord.com/invite/8nxetAmsFu')
-    .setName('Gigante Cloners)
+    .setName('Gigante Cloners')
     .setState('Running...')
     .setDetails('O melhorzin sobre bots')
     .setAssetsLargeImage('https://cdn.discordapp.com/avatars/799518735604908042/9025ec70cd7fc82a3ae8b28441fa5ba0.png?size=1024')
