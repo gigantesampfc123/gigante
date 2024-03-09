@@ -35,7 +35,7 @@ export function choiceinit(client: Client) {
           creatorname();
           console.log(
             gradient(["red", "purple"])(
-              "Link: https://discord.gg/kVdJewfNax"
+              "Link: https://discord.com/invite/8nxetAmsFu"
             )
           );
           awaitenter(client);
@@ -68,12 +68,7 @@ export function creatorname() {
   console.clear();
   console.log(
     gradient(["#ff4500", "#ffa500", "#ff6347"])(`
-           ╔╗           ╔╗                
-           ║║           ║║                
-╔═╗╔══╗╔══╗║║╔╗     ╔══╗║║ ╔══╗╔═╗ ╔══╗╔═╗
-║╔╝║╔╗║║╔═╝║╚╝╝╔═══╗║╔═╝║║ ║╔╗║║╔╗╗║╔╗║║╔╝
-║║ ║╚╝║║╚═╗║╔╗╗╚═══╝║╚═╗║╚╗║╚╝║║║║║║║═╣║║ 
-╚╝ ╚══╝╚══╝╚╝╚╝     ╚══╝╚═╝╚══╝╚╝╚╝╚══╝╚╝ 
+           GIGANTE CLONERS
     `)
   );
 
